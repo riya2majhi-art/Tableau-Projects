@@ -1,4 +1,4 @@
-# 📊 Tableau Projects
+# 📊 Netflix Dashboard
 
 ## 📌 Overview
 
